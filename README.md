@@ -16,4 +16,10 @@ modules needed
 - seaborn
 
 
+here, I have includer only the python file which is ready to use for your work
+I have not included ipynotebook cauze I don't like it much, I love to use Spyder while training a machine
+
 Created by Love From India
+
+
+Anmol Mishra
